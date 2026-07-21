@@ -1,0 +1,5 @@
+plant_id,zone_id,zone_name,zone_type,latitude,longitude,floor_level,description,normal_workers,primary_hazard
+PLANT_01,ZONE_01,Coke Oven Battery,process_high_gas,17.6868,83.2185,0,"Coke handling, combustion and gas-prone process area.",12,CO / combustible gas
+PLANT_01,ZONE_02,Blast Furnace Area,high_heat,17.6872,83.2191,0,High-temperature ironmaking area with rotating auxiliaries.,14,Heat / gas / pressure
+PLANT_01,ZONE_03,Rolling Mill,rotating_machinery,17.6878,83.2197,0,High-speed rolling equipment and material movement.,13,Vibration / moving machinery
+PLANT_01,ZONE_04,Maintenance Bay,maintenance_hot_work,17.6883,83.2202,0,"Repair, electrical maintenance and controlled hot-work area.",11,Hot work / electrical / tools

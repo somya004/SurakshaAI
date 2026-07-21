@@ -1,0 +1,51 @@
+worker_id,worker_name,employer_name,job_role,department,experience_years,safety_training_completed,hot_work_authorized,confined_space_authorized,electrical_work_authorized,work_at_height_authorized,training_expiry_date,medical_clearance_valid,active
+WKR-001,Nikhil Rao,Suraksha Steel Works,Electrician,Electrical Maintenance,7.9,True,False,False,True,False,2027-04-04T02:47:03+05:30,True,True
+WKR-002,Ananya Kumar,Suraksha Steel Works,Mechanical Technician,Maintenance,19.3,True,False,False,False,True,2027-01-09T02:47:03+05:30,True,True
+WKR-003,Gaurav Singh,Suraksha Steel Works,Process Operator,Coke Operations,13.1,True,False,False,False,False,2026-09-20T02:47:03+05:30,True,True
+WKR-004,Ananya Iyer,Suraksha Steel Works,Instrumentation Technician,Instrumentation,5.1,True,False,False,True,False,2026-08-13T02:47:03+05:30,True,True
+WKR-005,Varun Joshi,Suraksha Steel Works,Process Operator,Coke Operations,11.8,True,False,False,False,False,2026-12-27T02:47:03+05:30,False,True
+WKR-006,Ananya Khan,Eastern Maintenance Solutions,Electrical Technician,Electrical Maintenance,11.2,True,False,False,True,False,2027-03-24T02:47:03+05:30,True,True
+WKR-007,Manish Joshi,Eastern Maintenance Solutions,Electrical Technician,Electrical Maintenance,7.2,True,False,False,True,False,2026-08-20T02:47:03+05:30,True,True
+WKR-008,Ananya Das,Apex Industrial Services,Shift Supervisor,Coke Operations,7.3,True,False,False,False,False,2027-06-11T02:47:03+05:30,True,True
+WKR-009,Sanjay Das,Suraksha Steel Works,Mechanical Technician,Maintenance,15.4,True,False,False,False,True,2026-10-28T02:47:03+05:30,True,True
+WKR-010,Mohit Gupta,Suraksha Steel Works,Electrician,Electrical Maintenance,13.1,True,False,False,True,False,2027-01-02T02:47:03+05:30,True,True
+WKR-011,Sanjay Singh,Suraksha Steel Works,Quality Inspector,Quality,16.5,True,False,False,False,False,2027-01-26T02:47:03+05:30,True,True
+WKR-012,Farhan Sharma,Suraksha Steel Works,Maintenance Fitter,Maintenance,17.0,True,True,False,False,True,2027-02-05T02:47:03+05:30,True,True
+WKR-013,Sneha Khan,Suraksha Steel Works,Mechanical Technician,Maintenance,14.4,True,False,False,False,True,2027-06-03T02:47:03+05:30,True,True
+WKR-014,Jatin Das,Eastern Maintenance Solutions,Mill Operator,Rolling Operations,2.8,True,False,False,False,False,2027-04-24T02:47:03+05:30,True,True
+WKR-015,Suman Yadav,Suraksha Steel Works,Electrical Technician,Electrical Maintenance,8.7,True,False,False,True,False,2026-09-16T02:47:03+05:30,True,True
+WKR-016,Akash Reddy,Suraksha Steel Works,Process Operator,Coke Operations,6.4,True,False,False,False,False,2027-06-13T02:47:03+05:30,True,True
+WKR-017,Farhan Gupta,Eastern Maintenance Solutions,Safety Officer,HSE,18.7,True,False,True,False,True,2027-05-05T02:47:03+05:30,True,True
+WKR-018,Sneha Reddy,Suraksha Steel Works,Material Handler,Logistics,4.0,True,False,False,False,False,2027-04-02T02:47:03+05:30,True,True
+WKR-019,Nikhil Mishra,Suraksha Steel Works,Control Room Operator,Ironmaking,15.4,True,False,False,False,False,2026-10-22T02:47:03+05:30,True,True
+WKR-020,Mohit Nair,Apex Industrial Services,Maintenance Fitter,Maintenance,15.4,True,True,False,False,True,2026-11-26T02:47:03+05:30,True,True
+WKR-021,Riya Mishra,Suraksha Steel Works,Safety Officer,HSE,16.3,True,False,True,False,True,2027-04-01T02:47:03+05:30,True,True
+WKR-022,Rakesh Gupta,Suraksha Steel Works,Furnace Operator,Ironmaking,6.9,True,False,False,False,False,2027-04-17T02:47:03+05:30,True,True
+WKR-023,Arjun Gupta,Suraksha Steel Works,Mechanical Technician,Maintenance,9.6,True,False,False,False,True,2027-02-15T02:47:03+05:30,True,True
+WKR-024,Pradeep Kumar,Eastern Maintenance Solutions,Gas Monitoring Technician,Safety & Instrumentation,1.7,True,False,True,False,False,2027-01-04T02:47:03+05:30,True,True
+WKR-025,Yash Rao,Suraksha Steel Works,Maintenance Fitter,Maintenance,15.9,True,True,False,False,True,2027-05-11T02:47:03+05:30,True,True
+WKR-026,Gaurav Khan,Suraksha Steel Works,Mechanical Technician,Maintenance,11.5,True,False,False,False,True,2026-10-29T02:47:03+05:30,True,True
+WKR-027,Nikhil Kumar,Suraksha Steel Works,Instrumentation Technician,Instrumentation,9.5,True,False,False,True,False,2026-08-26T02:47:03+05:30,True,True
+WKR-028,Priya Das,Eastern Maintenance Solutions,Shift Supervisor,Coke Operations,15.4,True,False,False,False,False,2027-01-08T02:47:03+05:30,True,True
+WKR-029,Pradeep Sharma,Suraksha Steel Works,Welder,Maintenance,6.6,True,True,False,False,False,2026-12-15T02:47:03+05:30,True,True
+WKR-030,Meera Iyer,Apex Industrial Services,Material Handler,Logistics,11.9,True,False,False,False,False,2027-03-06T02:47:03+05:30,True,True
+WKR-031,Aarav Rao,Eastern Maintenance Solutions,Mechanical Technician,Maintenance,9.2,True,False,False,False,True,2027-02-28T02:47:03+05:30,True,True
+WKR-032,Rahul Iyer,Suraksha Steel Works,Material Handler,Logistics,3.1,True,False,False,False,False,2026-10-11T02:47:03+05:30,True,True
+WKR-033,Bhavna Reddy,Suraksha Steel Works,Control Room Operator,Ironmaking,18.0,True,False,False,False,False,2027-03-21T02:47:03+05:30,False,True
+WKR-034,Yash Iyer,Suraksha Steel Works,Material Handler,Logistics,15.0,True,False,False,False,False,2027-01-01T02:47:03+05:30,True,True
+WKR-035,Mohit Iyer,Pragati Engineering Contractors,Safety Officer,HSE,6.2,True,False,True,False,True,2026-12-03T02:47:03+05:30,True,True
+WKR-036,Deepak Khan,Apex Industrial Services,Shift Supervisor,Coke Operations,11.0,True,False,False,False,False,2027-01-18T02:47:03+05:30,True,True
+WKR-037,Pradeep Nair,Pragati Engineering Contractors,Furnace Operator,Ironmaking,6.0,True,False,False,False,False,2026-12-28T02:47:03+05:30,True,True
+WKR-038,Tanvi Verma,Apex Industrial Services,Maintenance Fitter,Maintenance,14.6,True,True,False,False,True,2027-03-08T02:47:03+05:30,True,True
+WKR-039,Rahul Kumar,Suraksha Steel Works,Maintenance Fitter,Maintenance,14.0,True,True,False,False,True,2026-12-21T02:47:03+05:30,True,True
+WKR-040,Farhan Iyer,Suraksha Steel Works,Quality Inspector,Quality,13.3,True,False,False,False,False,2026-08-30T02:47:03+05:30,True,True
+WKR-041,Yash Nair,Pragati Engineering Contractors,Mill Operator,Rolling Operations,13.2,True,False,False,False,False,2026-10-09T02:47:03+05:30,True,True
+WKR-042,Yash Mishra,Apex Industrial Services,Process Operator,Coke Operations,6.4,True,False,False,False,False,2026-09-18T02:47:03+05:30,False,True
+WKR-043,Rakesh Sharma,Suraksha Steel Works,Process Operator,Coke Operations,6.2,True,False,False,False,False,2027-01-25T02:47:03+05:30,True,True
+WKR-044,Sneha Mishra,Suraksha Steel Works,Safety Officer,HSE,5.4,True,False,True,False,True,2026-10-13T02:47:03+05:30,True,True
+WKR-045,Meera Joshi,Suraksha Steel Works,Shift Supervisor,Coke Operations,15.6,True,False,False,False,False,2026-09-27T02:47:03+05:30,True,True
+WKR-046,Pradeep Yadav,Suraksha Steel Works,Quality Inspector,Quality,6.3,True,False,False,False,False,2026-08-31T02:47:03+05:30,True,True
+WKR-047,Ishita Patel,Suraksha Steel Works,Maintenance Fitter,Maintenance,15.2,True,True,False,False,True,2027-01-07T02:47:03+05:30,True,True
+WKR-048,Rohit Yadav,Suraksha Steel Works,Shift Supervisor,Coke Operations,6.1,True,False,False,False,False,2026-11-18T02:47:03+05:30,True,True
+WKR-049,Varun Khan,Suraksha Steel Works,Safety Officer,HSE,4.1,True,False,True,False,True,2027-03-02T02:47:03+05:30,True,True
+WKR-050,Suman Khan,Suraksha Steel Works,Electrical Technician,Electrical Maintenance,11.9,True,False,False,True,False,2027-05-16T02:47:03+05:30,True,True
