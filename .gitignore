@@ -62,6 +62,8 @@ pnpm-debug.log*
 # ML Models
 # -----------------------------
 models_artifacts/*.joblib
+!models_artifacts/anomaly_model.joblib
+!models_artifacts/risk_model.joblib
 models_artifacts/*.pkl
 models_artifacts/*.h5
 models_artifacts/*.onnx
